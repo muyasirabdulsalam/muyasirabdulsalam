@@ -22,7 +22,7 @@ Welcome to my GitHub profile! I'm an aspiring data scientist with a passion for 
   - Data Analysis
 💼 Worked on-site in Tamale, Northern Region, Ghana, collaborating with cross-functional teams to extract insights, develop predictive models, and make data-driven decisions.
 
-### Data Analyst (Intern) at Ghana Revenue Authority - official
+### Data Analyst (Intern) at Ghana Revenue Authority
 📍 Accra, Greater Accra Region, Ghana
 📅 2021 - 2022
 🕒 1 yr
@@ -65,7 +65,7 @@ Welcome to my GitHub profile! I'm an aspiring data scientist with a passion for 
 
 📫 **Let's Connect:**
 
-- LinkedIn: [Muyasir Abdul Salam](https://linkedin.com/in/muyasir-abdul-salam)
+- LinkedIn: [Muyasir Abdul-Salam](https://linkedin.com/in/muyasir-abdul-salam)
 - Email: [muyasirabdulsalam88@gmail.com](mailto:muyasirabdulsalam88@gmail.com)
 - Twitter: [@MuyasirT](https://twitter.com/muyasirt)
 
