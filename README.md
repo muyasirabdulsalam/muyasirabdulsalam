@@ -37,8 +37,8 @@ Welcome to my GitHub profile! I'm an aspiring data scientist with a passion for 
 
 ### Frontend Developer (Intern) at Mandeyya IT Solutions
 📍 Accra, Greater Accra Region, Ghana
-📅 2019 - 2020
-🕒 1 yr
+📅 2020 - 2020
+🕒 4 months 
 🌟 Gained exposure to web development and honed coding skills, focusing on creating interactive user interfaces and ensuring seamless user experiences.
 
 🚀 **Skills and Languages:**
